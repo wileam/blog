@@ -87,3 +87,4 @@ exclude_generator:
 deploy:
   type: github
   repository: https://github.com/wileam/blog.git
+  branch: gh-pages
