@@ -88,3 +88,8 @@ deploy:
   type: github
   repository: https://github.com/wileam/blog.git
   branch: gh-pages
+
+feed:
+    type: atom
+    path: atom.xml
+    limit: 20
