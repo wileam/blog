@@ -1,10 +1,10 @@
 menu:
   首页: /
   关于: /about
+  归档: archives
   RSS订阅: /atom.xml
 
 widgets:
-- search
 - about_me
 - calendar
 - category
