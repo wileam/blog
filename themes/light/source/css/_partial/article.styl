@@ -101,9 +101,9 @@ article
         display none
       &:before
         position absolute
-        font 32px font-icon    
+        font 32px font-icon
         top 0
-        left 0 
+        left 0
         width 32px
         text-align center
 
@@ -291,3 +291,28 @@ article
       margin-top 15px
       iframe
         margin-top 0
+.prev_next
+  margin 1em 0
+  clear both
+  -webkit-box-shadow: 1px 2px 3px #ddd;
+  box-shadow: 1px 2px 3px #ddd;
+  background: #fff;
+  overflow hidden
+  a
+    display block
+    float left
+    width 50%
+    text-align center
+    padding 0.4em 0
+    color #1ba1e2
+    &.prev::before
+      content "上一篇："
+      padding-right 0.5em
+    &.next::before
+      content "下一篇："
+      padding-right 0.5em
+    &.disabled
+      cursor: not-allowed
+      color:#999
+      &:hover
+        text-decoration: none
