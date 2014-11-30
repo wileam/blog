@@ -35,7 +35,7 @@ article
 
   .post-content
     padding 20px 20px 15px (icon-size + icon-gap + 20)
-    margin-bottom 50px
+    margin-bottom 20px
     position relative
     @media screen and (max-width: 600px)
       padding-left 20px
@@ -292,27 +292,24 @@ article
       iframe
         margin-top 0
 .prev_next
-  margin 1em 0
+  margin-bottom 1em
   clear both
-  -webkit-box-shadow: 1px 2px 3px #ddd;
-  box-shadow: 1px 2px 3px #ddd;
-  background: #fff;
+  background transparent
   overflow hidden
   a
-    display block
-    float left
-    width 50%
+    display inline-block
     text-align center
-    padding 0.4em 0
+    padding 0.5em 1em
+    background #fff
+    -webkit-box-shadow 1px 2px 3px #ddd
+    box-shadow 1px 2px 3px #ddd
     color #1ba1e2
-    &.prev::before
-      content "上一篇："
-      padding-right 0.5em
-    &.next::before
-      content "下一篇："
-      padding-right 0.5em
+    &.prev
+      float left
+    &.next
+      float right
     &.disabled
-      cursor: not-allowed
-      color:#999
+      cursor not-allowed
+      color #999
       &:hover
-        text-decoration: none
+        text-decoration none
