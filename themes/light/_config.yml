@@ -1,6 +1,5 @@
 menu:
   首页: /
-  关于: /about
   归档: /archives
   RSS订阅: /atom.xml
 
@@ -46,7 +45,8 @@ about_me:
   title: 关于我
   avatar: /uploads/avatar.jpg
   texts:
-  - <a href="/about" target="_BLANK">Joanna Wu(wileam)</a>
+  - <a href="//wumengyuan.com" target="_BLANK">Joanna Wu(wileam)</a>
+  - 码农、书女、旅人
   - Smile, breathe & go slowly. ^_^
   - <br>
   - <img src="/uploads/email.gif">
