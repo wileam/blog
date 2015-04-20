@@ -85,9 +85,13 @@ exclude_generator:
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: github
-  repository: git@github.com:wileam/blog.git
+- type: git
+  repo: git@github.com:wileam/blog.git
   branch: gh-pages
+- type: git
+  repo: git@gitcafe.com:wileam/blog.git
+  branch: gitcafe-pages
+
 
 feed:
     type: atom
