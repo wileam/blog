@@ -6,7 +6,7 @@ tags:
 
 ---
 
-<img src="http://wileam-images.b0.upaiyun.com/IMG_5024.JPG" alt="TEDxXihu2014海报" height="520" width="auto">
+<!-- <img src="http://wileam-images.b0.upaiyun.com/IMG_5024.JPG" alt="TEDxXihu2014海报" height="520" width="auto"> -->
 
 周六，去了 **TEDx西湖** 年度冬季大会现场，六位中国本土青年，不同视角不同故事，还是蛮多启发的一个下午。
 
