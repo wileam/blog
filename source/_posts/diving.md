@@ -15,7 +15,7 @@ tags:
 
 我会记得你们，OW(Open Water) 教练 O'Neill, AOW(Advanced Open Water) 教练 超哥，DM(Dive Master) 养老虎的 Otto, buddy 国际大比划 静儿，同事 suddy，我的面镜掉下水的时候毫不犹豫跳下海帮我捡起来的小朋友 Kaxxxx(对不起我真的记不住你的马来名字)……还有太多太多美好的人儿。
 
-![OW get](http://wileam-images.b0.upaiyun.com/diving/oneill.jpg!small)
+<!-- ![OW get](http://wileam-images.b0.upaiyun.com/diving/oneill.jpg!small) -->
 
 我会记得那些美妙的时刻。
 
@@ -28,6 +28,7 @@ tags:
 
 - 和 静儿、suddy、otto 大家一起去沙滩上的酒吧，把酒言欢。“我们是 buddy，我们必须信任彼此。来，干杯” “（哦）”。
 
+![mabul](http://wileam-images.b0.upaiyun.com/diving/mabul.jpg!small)
 ![billabong](http://wileam-images.b0.upaiyun.com/diving/billabong-morning.jpg!small)
 
 - 比如一次次的“我做不到的”到“我居然做到了，好像也没有那么难”。调整水下的呼吸，在水下睁眼摘掉面镜，调整水下姿态，中性浮力……
@@ -59,15 +60,20 @@ tags:
 
 ![coral](http://wileam-images.b0.upaiyun.com/diving/coral.jpg!small)
 ![coral](http://wileam-images.b0.upaiyun.com/diving/coral2.jpg!small)
+![sipadan](http://wileam-images.b0.upaiyun.com/diving/sipadan1.jpg!small)
+![sipadan](http://wileam-images.b0.upaiyun.com/diving/sipadan2.jpg!small)
+![sipadan](http://wileam-images.b0.upaiyun.com/diving/sipadan3.jpg!small)
 
 - 记得那些被称为海上吉普赛的巴瑶族，他们世代就生活在海上，全家人挤在小小的船舱里，睡觉、做饭、洗澡、生活……如果有钱了，就再买一艘船，而不是来到陆地上建房子。开始听说真的是大吃一惊，难以想象。然而我想，人生真的是有很多形态，我们以为好的生活，对他人未必是适用的。那么，你想要的人生，是怎样的？
 
 ![Sea Gypsies - Bajau](http://wileam-images.b0.upaiyun.com/diving/bajau.jpg!small)
+![Sea Gypsies - Bajau](http://wileam-images.b0.upaiyun.com/diving/bajau2.jpg!small)
 
 还有太多太多难忘的记忆…………
 
 好开心啊。不止是潜水，还有这一段在海上的梦一样的慢悠悠的晃晃荡荡的日子。在离开的飞机上已经忍不住要哭出来，我很想念你，mabul，我还会再来的。
 
 ![with turtle](http://wileam-images.b0.upaiyun.com/diving/withturtle.jpg!small)
+![so long](http://wileam-images.b0.upaiyun.com/diving/diving3.jpg!small)
 
 So long, and thanks for all the fish.
