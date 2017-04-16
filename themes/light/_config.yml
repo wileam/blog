@@ -10,7 +10,6 @@ widgets:
 - tagcloud
 - recent_posts
 - links
-- duoshuo_recent_comments
 
 highlightjs: monokai_sublime
 
@@ -38,8 +37,6 @@ links:
   link: http://www.wileam.com
 - name: 技术博客
   link: http://code.wileam.com
-
-duoshuo: wileamblog
 
 about_me:
   title: 关于我
